@@ -1,0 +1,5 @@
+Developed a To-Do List application using Tkinter, incorporating a modern and user-friendly interface with enhanced background colors and button styles for improved usability.
+Implemented task addition, deletion, and completion marking functionalities, allowing users to manage their tasks efficiently.
+Designed a responsive entry window for adding new tasks, featuring dynamic warning messages to ensure input validation.
+Optimized task display with a scrollable listbox, ensuring smooth navigation through tasks using integrated scrollbar support.
+Enhanced user experience by toggling task completion status visually, enabling clear differentiation between completed and pending tasks with dynamic updates.
